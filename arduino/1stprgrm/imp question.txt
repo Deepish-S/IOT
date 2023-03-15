@@ -32,3 +32,11 @@ uart
 universal asynchronous receiver-transmitter
 
 what MOde should we put pin in order to object 
+
+
+
+void main(){
+  int a = 0;
+  double d = 10;;
+  printf("%lu",sizeof(a+d);
+}
